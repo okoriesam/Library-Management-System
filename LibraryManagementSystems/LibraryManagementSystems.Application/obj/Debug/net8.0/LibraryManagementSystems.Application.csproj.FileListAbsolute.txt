@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\bin\Debug\net8.0\LibraryManagementSystems.Application.deps.json
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\bin\Debug\net8.0\LibraryManagementSystems.Application.dll
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\bin\Debug\net8.0\LibraryManagementSystems.Application.pdb
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\bin\Debug\net8.0\LibraryManagementSystems.Domain.dll
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\bin\Debug\net8.0\LibraryManagementSystems.Domain.pdb
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\LibraryManagementSystems.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\LibraryManagementSystems.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\LibraryManagementSystems.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\LibraryManagementSystems.Application.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\LibraryManagementSystems.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\LibraryManagementSystems.Application.sourcelink.json
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\LibraryM.A237EFC2.Up2Date
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\LibraryManagementSystems.Application.dll
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\refint\LibraryManagementSystems.Application.dll
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\LibraryManagementSystems.Application.pdb
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Application\obj\Debug\net8.0\ref\LibraryManagementSystems.Application.dll
