@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\bin\Debug\net8.0\LibraryManagementSystems.Domain.deps.json
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\bin\Debug\net8.0\LibraryManagementSystems.Domain.dll
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\bin\Debug\net8.0\LibraryManagementSystems.Domain.pdb
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\LibraryManagementSystems.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\LibraryManagementSystems.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\LibraryManagementSystems.Domain.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\LibraryManagementSystems.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\LibraryManagementSystems.Domain.sourcelink.json
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\LibraryManagementSystems.Domain.dll
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\refint\LibraryManagementSystems.Domain.dll
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\LibraryManagementSystems.Domain.pdb
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\ref\LibraryManagementSystems.Domain.dll
