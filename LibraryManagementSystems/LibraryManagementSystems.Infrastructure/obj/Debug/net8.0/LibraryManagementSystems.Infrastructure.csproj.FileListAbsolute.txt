@@ -16,3 +16,5 @@ C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\Librar
 C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Infrastructure\obj\Debug\net8.0\refint\LibraryManagementSystems.Infrastructure.dll
 C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Infrastructure\obj\Debug\net8.0\LibraryManagementSystems.Infrastructure.pdb
 C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Infrastructure\obj\Debug\net8.0\ref\LibraryManagementSystems.Infrastructure.dll
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Infrastructure\bin\Debug\net8.0\LibraryManagementSystems.Infrastructure.runtimeconfig.json
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Infrastructure\obj\Debug\net8.0\LibraryManagementSystems.Infrastructure.genruntimeconfig.cache
