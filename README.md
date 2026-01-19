@@ -17,7 +17,7 @@ Visual Studio 2022 or VS Code
  
 git clone https://github.com/your-username/LibraryManagementSystem.git
 
- cd LibraryManagementSystem
+ cd LibraryManagementSystemS
  
 2 Configure the Database Open LibraryManagementSystems.Api/appsettings.json and update the connection string to point to your SQL Server instance:
 
