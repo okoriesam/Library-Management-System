@@ -14,13 +14,17 @@ Visual Studio 2022 or VS Code
 
 1 Clone the repository
  gitbash
+ 
 git clone https://github.com/your-username/LibraryManagementSystem.git
 
  cd LibraryManagementSystem
+ 
 2 Configure the Database Open LibraryManagementSystems.Api/appsettings.json and update the connection string to point to your SQL Server instance:
 
 JSON
-"ConnectionStrings": {
+
+"ConnectionStrings":
+{
   "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=LibraryDb;Trusted_Connection=True;MultipleActiveResultSets=true"
 }
 
