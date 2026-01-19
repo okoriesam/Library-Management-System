@@ -10,3 +10,4 @@ C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\Librar
 C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\refint\LibraryManagementSystems.Domain.dll
 C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\LibraryManagementSystems.Domain.pdb
 C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\ref\LibraryManagementSystems.Domain.dll
+C:\Users\Admin\Desktop\Library-Management-System\LibraryManagementSystems\LibraryManagementSystems.Domain\obj\Debug\net8.0\LibraryManagementSystems.Domain.csproj.AssemblyReference.cache
